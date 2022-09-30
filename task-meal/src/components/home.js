@@ -16,6 +16,7 @@ import './home.css'
 import NavBar from "./navbar/navBar";
 import Content from "./content/content";
 import Footer from "./footer/footer";
+import Filter from "./pages/filter";
 
 function Home () {
 

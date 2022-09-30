@@ -1,6 +1,17 @@
-.conatiner__content {
-    padding: 2rem 0;
-    margin-top: 5rem;
+
+.container__content {
+    margin-top: 6rem;
+}
+
+.container__util{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+.container__display {
+    padding: 1rem 0;
+    margin-top: 2rem;
     /* background-color: red; */
     display: flex;
     flex-direction: row;

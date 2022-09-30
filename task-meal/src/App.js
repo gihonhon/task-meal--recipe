@@ -11,6 +11,7 @@ function App() {
        <Routes>
         <Route path='/' element={<Home />}/>
         <Route path='/recipe/:id' element={<Detail/>}></Route>
+        <Route path='/category/:cat'/>
        </Routes>
     </>
   );

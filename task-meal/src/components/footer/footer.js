@@ -14,7 +14,7 @@ function Footer () {
                 <Link to='/' className="footerLink">
                     <FontAwesomeIcon icon={faBowlFood}/>
                 </Link>
-                <span className="mb-3 mb-md-0 text-muted">&copy; 2022 Company, Inc</span>
+                <span className="mb-3 mb-md-0 text-muted">&copy; Created by Honhon</span>
             </div>
             <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
                 <li className="ms-3"><FontAwesomeIcon className="footerIcon" icon={faFacebook}/></li>
