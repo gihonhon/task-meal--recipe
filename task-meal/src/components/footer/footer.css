@@ -1,0 +1,15 @@
+.footerLink {
+    text-decoration: none;
+    color: grey;
+}
+
+.footerLink:hover {
+    text-decoration: none;
+    color: grey;
+}
+
+.footerIcon {
+    width: 2rem;
+    height: 1.5rem;
+    color: grey;
+}

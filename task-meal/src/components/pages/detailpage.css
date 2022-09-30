@@ -1,0 +1,11 @@
+.container__detail {
+    display: flex;
+    justify-content: center;
+}
+
+.col-md-4{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+}
